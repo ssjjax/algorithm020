@@ -27,6 +27,6 @@ tips：
   Arrays.asList(nums[i], nums[j], nums[k]);
   返回一个空list：
   Collections.emptylist()
-
-LinkedHashSet:
-可维护先后顺序，又可去重
+  
+  LinkedHashSet:
+  可维护先后顺序，又可去重
