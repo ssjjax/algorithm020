@@ -1,6 +1,6 @@
 /**
  * @author Suisijia
- * @create 2020-11-22 15:39
+ * @create 2020-11-22 16:04
  */
 public class RemoveDuplicatesFromSortedArray {
     public int removeDuplicates(int[] nums) {
