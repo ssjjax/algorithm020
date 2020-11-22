@@ -9,7 +9,7 @@ public class RemoveDuplicatesFromSortedArray {
         }
         int j = 0;
         for (int i = 1; i < nums.length; i++) {
-            // i > j ¿É±ÜÃâÔ­µØ¸´ÖÆ
+            // i > j å¯é¿å…åŽŸåœ°èµ‹å€¼
             if (nums[i] != nums[j] && i > j) {
                 nums[++j] = nums[i];
             }
