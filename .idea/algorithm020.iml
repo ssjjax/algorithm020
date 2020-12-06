@@ -6,6 +6,11 @@
       <sourceFolder url="file://$MODULE_DIR$/Week1/homework" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week1/test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week2/homework" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DailyExercise/day1-day5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DailyExercise/day6-day10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DailyExercise/day11-15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DailyExercise/day16-20" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week3/homework" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
