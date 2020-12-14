@@ -30,7 +30,7 @@ public class AssignCookies {
 
 
 //写法二：while循环（根据情况，i和j手动前进）
-class Solution {
+class Solution2 {
     public int findContentChildren(int[] g, int[] s) {
         Arrays.sort(g);
         Arrays.sort(s);
