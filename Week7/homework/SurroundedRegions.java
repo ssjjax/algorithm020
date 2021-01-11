@@ -26,7 +26,7 @@ public class SurroundedRegions {
                             int y = j+d[k][1];
                             // ** 合并试探位置和原本位置（这样写，能使和边相连的为一组。内部相连的是另外一组！！）
                             if (board[x][y] == 'O') uf.union(x*cols+y, i*cols+j);
-                            //注：错误写法（2021.1.10曾经调试了很久，才排除这个写法）
+                            //注：错误写法
                             // if (board[x][y] == 'O') {
                             //     uf.union(x * cols + y, dummy);
                             // }
